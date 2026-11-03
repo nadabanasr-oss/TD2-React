@@ -1,5 +1,5 @@
 function Resultat() {
-  const moyenne = 14; // jarreb 8
+  const moyenne = 14;
 
   const styleAdmis = {
     backgroundColor: "lightgreen",
